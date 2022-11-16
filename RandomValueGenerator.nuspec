@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Random Value Generator</title>
+    <authors>VOL</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>http://localhost/</projectUrl>
+    <description>This package will create a random alpha numeric value based on the string length submitted</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>2022</copyright>
+    <tags>Random Value Generator</tags>
+  </metadata>
+</package>
